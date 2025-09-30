@@ -1,0 +1,63 @@
+{
+    "tripName" : "Cruise Trip 2025",
+    "traveller" :[
+        {
+            "name":"Deepthi",
+            "contact":{
+                "email":"deeps@gmail.com",
+                "phone" : "314-666-888"
+            }
+
+        },
+        {
+            "name":"Sandy",
+            "contact":{
+                "email":"sandys@gmail.com",
+                "phone" : "314-678-888"
+            }
+
+        },
+        {
+            "name":"Ava",
+            "contact":{
+                "email":"ava@gmail.com",
+                "phone" : "314-876-888"
+            }
+
+        }
+    ],
+    "destinations" : [
+        {
+            "location" : "Bahamas",
+            "arriveDate":"2025-09-07",
+            "departureDate":"2025-09-10",
+            "activities":[
+                {
+                    "title":"Snorkeling",
+                    "time":"10:00AM"
+                },
+                {
+                    "title":"Surfing",
+                    "time":"2:00PM"
+                }
+            ]
+        },
+        {
+            "location" : "Mexico",
+            "arriveDate":"2025-09-11",
+            "departureDate":"2025-09-13",
+            "activities":[
+                {
+                    "title":"City tour",
+                    "time":"10:00AM"
+                },
+                {
+                    "title":"Water activity",
+                    "time":"1:00PM"
+                }
+            ]
+        }
+    ]
+        
+    
+}
